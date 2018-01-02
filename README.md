@@ -139,9 +139,9 @@ A community curated list of useful and interesting resources.
 
 * [[Tool] Test Kitchen](https://kitchen.ci/) -- [@kitchenci](https://twitter.com/kitchenci) -- Generic Infrastructure test-harness framework
 
-* [Serverspec](http://serverspec.org/) -- [@mizzy](https://github.com/mizzy) -- Infrastructure test suite based off the Ruby test library rspec. It requires no agent and can be used with any Configuration Management tool.
+* [[Tool] Serverspec](http://serverspec.org/) -- [@mizzy](https://github.com/mizzy) -- Infrastructure test suite based off the Ruby test library rspec. It requires no agent and can be used with any Configuration Management tool.
 
-* [Inspec](https://www.inspec.io/) -- [@Chef](https://twitter.com/chef) -- Similar to serverspec, but more easily extendable and built in support for compliance style checks
+* [[Tool] Inspec](https://www.inspec.io/) -- [@Chef](https://twitter.com/chef) -- Similar to serverspec, but more easily extendable and built in support for compliance style checks
 
 
 ---
@@ -149,15 +149,15 @@ A community curated list of useful and interesting resources.
 
 ## Performance, Metrics, and Monitoring
 
-* [Performance Analysis Methodology](http://www.brendangregg.com/methodology.html) -- [@brendangregg](https://twitter.com/brendangregg) -- Overview of USE (Utilization Saturation and Errors), TSA (Thread State Analysis), and Off-CPU monitoring.
+* [[Blog] Performance Analysis Methodology](http://www.brendangregg.com/methodology.html) -- [@brendangregg](https://twitter.com/brendangregg) -- Overview of USE (Utilization Saturation and Errors), TSA (Thread State Analysis), and Off-CPU monitoring.
 
-* [Linux Enhanced BPF (eBPF) Tracing Tools](http://www.brendangregg.com/ebpf.html) -- [@brendangregg](https://twitter.com/brendangregg) -- Very good collection of info, tools, other articles and presentations around eBPF.
+* [[Blog] Linux Enhanced BPF (eBPF) Tracing Tools](http://www.brendangregg.com/ebpf.html) -- [@brendangregg](https://twitter.com/brendangregg) -- Very good collection of info, tools, other articles and presentations around eBPF.
 
-* [Prometheus](https://kartar.net/2017/10/prometheus/) -- [@kartar](https://twitter.com/kartar) -- Introduction to Prometheus from one of the creators of Riemann.
+* [[Blog] Prometheus](https://kartar.net/2017/10/prometheus/) -- [@kartar](https://twitter.com/kartar) -- Introduction to Prometheus from one of the creators of Riemann.
 
-* [Falco](https://github.com/draios/falco) -- [@sysdig](https://twitter.com/sysdig) -- Great tool from sysdig for auditing and reporting in a container environment.
+* [[Tool] Falco](https://github.com/draios/falco) -- [@sysdig](https://twitter.com/sysdig) -- Great tool from sysdig for auditing and reporting in a container environment.
 
-* [Telegraf](https://github.com/influxdata/telegraf) -- [@InfluxDB](https://twitter.com/InfluxDB) -- Telegraf is an agent written in Go for collecting, processing, aggregating, and writing metrics.
+* [[Tool] Telegraf](https://github.com/influxdata/telegraf) -- [@InfluxDB](https://twitter.com/InfluxDB) -- Telegraf is an agent written in Go for collecting, processing, aggregating, and writing metrics.
 
 
 ---
@@ -167,15 +167,15 @@ A community curated list of useful and interesting resources.
 
 ### Golang
 
-* [go-patterns](https://github.com/tmrts/go-patterns) -- [@_tmrts](https://twitter.com/_tmrts) -- Curated list of golang design patterns.
+* [[Blog] go-patterns](https://github.com/tmrts/go-patterns) -- [@_tmrts](https://twitter.com/_tmrts) -- Curated list of golang design patterns.
 
-* [Golang Basics: Writing Unit Tests](https://blog.alexellis.io/golang-writing-unit-tests/) -- [@alexellis](https://twitter.com/alexellis) -- Fantastic reference and starting point for writing golang unit tests.
+* [[Blog] Golang Basics: Writing Unit Tests](https://blog.alexellis.io/golang-writing-unit-tests/) -- [@alexellis](https://twitter.com/alexellis) -- Fantastic reference and starting point for writing golang unit tests.
 
 
 ---
 
 ## Uncategorized
 
-* [CNCF Youtube Channel](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA) -- [@cloudnativefdn](https://twitter.com/cloudnativefdn) -- CNCF youtube channel, massive collection of good resources.
+* [[Video] CNCF Youtube Channel](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA) -- [@cloudnativefdn](https://twitter.com/cloudnativefdn) -- CNCF youtube channel, massive collection of good resources.
 
-* [Certificatechain.io](https://certificatechain.io/) -- [@spatie_be](https://twitter.com/spatie_be) -- Handy tool to generate the full cert chain for SSL certificates.
+* [[Tool] Certificatechain.io](https://certificatechain.io/) -- [@spatie_be](https://twitter.com/spatie_be) -- Handy tool to generate the full cert chain for SSL certificates.
