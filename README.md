@@ -153,6 +153,10 @@ A community curated list of useful and interesting resources.
 
 * [[Blog] Linux Enhanced BPF (eBPF) Tracing Tools](http://www.brendangregg.com/ebpf.html) -- [@brendangregg](https://twitter.com/brendangregg) -- Very good collection of info, tools, other articles and presentations around eBPF.
 
+* [[Blog] Key metrics for PostgreSQL monitoring](https://www.datadoghq.com/blog/postgresql-monitoring/) -- [@datadoghq](https://twitter.com/datadoghq) -- Insightful article on Postgres monitoring and explains key metrics that should be kept track of.
+
+* [[Blog] Collecting metrics with PostgreSQL monitoring tools](https://www.datadoghq.com/blog/postgresql-monitoring-tools/) -- [@datadoghq](https://twitter.com/datadoghq) -- Followup to previous article going over the tools needed to properly monitor Postgres.
+
 * [[Blog] Prometheus](https://kartar.net/2017/10/prometheus/) -- [@kartar](https://twitter.com/kartar) -- Introduction to Prometheus from one of the creators of Riemann.
 
 * [[Tool] Falco](https://github.com/draios/falco) -- [@sysdig](https://twitter.com/sysdig) -- Great tool from sysdig for auditing and reporting in a container environment.
