@@ -55,6 +55,8 @@ A community curated list of useful and interesting resources.
 
 ### Kernel
 
+* [[Book] linux-insides](https://0xax.gitbooks.io/linux-insides/content/) -- a guided walkthrough of the Linux source. Great for learning how it works, but not for the faint of heart.
+
 * [[Blog] The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) -- [@PackageCloud](https://twitter.com/packagecloudio) -- Comprehensive introduction to Linux syscalls.
 
 * [[Blog] Linux tracing systems & how they fit together](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/) -- [@b0rk](https://twitter.com/b0rk) -- Very good and in depth introduction to modern network load balancing and proxying techniques.
