@@ -17,7 +17,7 @@ A community curated list of useful and interesting resources.
   * [Kubernetes](#kubernetes)
   * [Networking](#networking)
 * [Testing](#testing)
-* [Performance, Metrics, and Monitoring](#performance,-metrics,-and-monitoring)
+* [Performance, Metrics, and Monitoring](#performance-metrics-and-monitoring)
 * [Programming Languages](#programming-languages)
   * [Golang](#golang)
 * [Uncategorized](#uncategorized)
@@ -55,7 +55,7 @@ A community curated list of useful and interesting resources.
 
 ### Kernel
 
-* [[Book] linux-insides](https://0xax.gitbooks.io/linux-insides/content/) -- a guided walkthrough of the Linux source. Great for learning how it works, but not for the faint of heart.
+* [[Book] linux-insides](https://0xax.gitbooks.io/linux-insides/content/) -- [@0xAX](https://twitter.com/0xAX) -- a guided walkthrough of the Linux source. Great for learning how it works, but not for the faint of heart.
 
 * [[Blog] The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/) -- [@PackageCloud](https://twitter.com/packagecloudio) -- Comprehensive introduction to Linux syscalls.
 
