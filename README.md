@@ -110,6 +110,8 @@ A community curated list of useful and interesting resources.
 
 * [[Blog] Kubernetes: from load balancer to pod](https://medium.com/google-cloud/kubernetes-from-load-balancer-to-pod-3f2399637b0c) -- [@aconchillo](https://twitter.com/aconchillo) -- Collection of resources and links useful for studying and passing the CKA exam.
 
+* [[Blog] Scaling Kubernetes to 2,500 Nodes](https://blog.openai.com/scaling-kubernetes-to-2500-nodes/) -- [@openai](https://twitter.com/OpenAI) -- An outstanding post from the OpenAI team regarding some of the challenges of wrangling a large-scale Kubernetes Cluster.
+
 * [[Presentation] Kubernetes Walk Through from Technical View](https://speakerdeck.com/resouer/kubernetes-walk-through-from-technical-view) -- [@resouer](https://twitter.com/resouer) -- Technical core Kubernetes architecture overview.
 
 * [[Presentation] Kubernetes Node Under the Hood](https://speakerdeck.com/resouer/kubernetes-node-under-the-hood) -- [@resouer](https://twitter.com/resouer) -- Deep dive into kubelet and a Kubernetes node.
