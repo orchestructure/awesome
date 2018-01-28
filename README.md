@@ -163,6 +163,10 @@ A community curated list of useful and interesting resources.
 
 * [[Blog] Prometheus](https://kartar.net/2017/10/prometheus/) -- [@kartar](https://twitter.com/kartar) -- Introduction to Prometheus from one of the creators of Riemann.
 
+* [[Blog] Key metrics for RabbitMQ monitoring](https://www.datadoghq.com/blog/rabbitmq-monitoring/) -- [@datadoghq](https://twitter.com/datadoghq) -- Great post on what essential RabbitMQ metrics should be monitored.
+
+* [[Blog] Collecting metrics with RabbitMQ monitoring tools](https://www.datadoghq.com/blog/rabbitmq-monitoring-tools/) -- [@datadoghq](https://twitter.com/datadoghq) -- Followup to previous article going over the various tools out there to monitor RabbitMQ.
+
 * [[Tool] Falco](https://github.com/draios/falco) -- [@sysdig](https://twitter.com/sysdig) -- Great tool from sysdig for auditing and reporting in a container environment.
 
 * [[Tool] Telegraf](https://github.com/influxdata/telegraf) -- [@InfluxDB](https://twitter.com/InfluxDB) -- Telegraf is an agent written in Go for collecting, processing, aggregating, and writing metrics.
