@@ -134,6 +134,7 @@ A community curated list of useful and interesting resources.
 
 * [[Tool] Traefik](https://github.com/containous/traefik) -- [@traefikproxy](https://twitter.com/traefikproxy) -- Golang-based load balancer / reverse proxy engine built for microservice environments.
 
+* [[Tutorial] Learn Envoy](https://www.learnenvoy.io) -- [@learnenvoy](https://twitter.com/learnenvoy) -- Great Walkthrough tutorial of the many different aspects of envoy.
 
 ---
 
